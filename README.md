@@ -15,7 +15,8 @@ Welcome to my **Python Projects** repository! 🎯 This is where I explore vario
 📅 **Date:** 13/02/2025  
 
 🔹 A system that recommends movies based on user preferences.  
-🔹 Uses **collaborative filtering** and **similarity scores**.  
+🔹 Uses **collaborative filtering** and **similarity scores**.
+🔹Data set used: https://www.kaggle.com/datasets/garymk/movielens-25m-dataset
 
 More details in the project folder! 🚀  
 
