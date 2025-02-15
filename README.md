@@ -18,6 +18,8 @@ Welcome to my **Python Projects** repository! 🎯 This is where I explore vario
 🔹 Uses **collaborative filtering** and **similarity scores**.
 🔹Data set used: https://www.kaggle.com/datasets/garymk/movielens-25m-dataset
 
+
+in progress: To-do-list :)
 More details in the project folder! 🚀  
 
 ---
